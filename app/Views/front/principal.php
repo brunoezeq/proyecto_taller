@@ -10,18 +10,19 @@ shrink-to-fit=no">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
 </head>  
-<body>  
 
+<body>
+  <img class="img-fluid" src="assets/img/paisaje_prueba.jpg" alt="...">    
   <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="assets/img/CARRUSEL_1.png" class="d-block w-100" alt="...">
+    </div>
+      <div class="carousel-item">
+        <img src="assets/img/CARRUSEL_2.png" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="" class="d-block w-100" alt="...">
-      </div>
-      <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="assets/img/CARRUSEL_3.png" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
