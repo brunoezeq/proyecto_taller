@@ -1,4 +1,4 @@
-<div class="">
+
       <h2>BIENVENIDOS</h2>
       <p class="col-12"> Somos XPRESSO S.A tu tienda de café más confiable.
         Déjate seducir por el aroma irresistible y el sabor incomparable del café de calidad que hemos perfeccionado durante una década en la industria. En XPRESSO, fusionamos pasión y experiencia para ofrecerte la taza perfecta de café en cada sorbo.
@@ -16,4 +16,3 @@
           <h3>VISIÓN</h3>
           <p>En Xpresso, nos visualizamos como los artesanos del café de especialidad, explorando los rincones más remotos del mundo en busca de los granos más exquisitos y exóticos. Nos esforzamos por ser reconocidos como la máxima expresión de calidad, pasión y excelencia en la industria del café.</p>  
         </div>
-      </div>
