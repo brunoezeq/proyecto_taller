@@ -2,24 +2,72 @@
     background-color: white; /*color de fondo del body*/  
 } 
 
+/*
+.cormorant-<uniquifier> {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+  }
+  */
+
+
 /* BARRA DE NAV. */
 
+.container-fluid{
+ background-color: #143d33;
+}
+
+.container-fluid img{ /*logo*/
+    height: 80px;
+}
+
 .container-fluid a{
-    color: black;
+    font-style: "Cormorant";
+    color: rgb(243, 239, 239);
     font-size: 18px;
+    
+}
+
+.container-fluid lu{
+    text-align: right;
 }
 
 /* PRINCIPAL */
 
+.prod-destacados h2{
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+.prod-destacados .container{
+    padding-bottom: 25px;
+}
+
+
+
+.prod-destacados img{
+    height: 400px;
+}
 
 
 /* FOOTER */
 
 .footer{
-    background-color: rgb(156, 241, 148);
+    background-color: #143d33;
 }
 
+.footer ul{
+    list-style: none;
+}
 
+.footer img{
+    height: 20px;
+}
 
-
-
+.footer h3{
+    font-size: 18px;
+    color: white;
+    padding-top: 5px;
+}

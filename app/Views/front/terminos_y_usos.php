@@ -1,10 +1,10 @@
 <div class="termyusos">
-    <h2>TERMINOS Y USOS</h2>
+    <h2 class="text-center">TERMINOS Y USOS</h2>   /* AGREGUE EL TEXT-CENTER  */
     <p> En Xpresso, nos enorgullecemos de ofrecerte una experiencia excepcional en la compra de café de especialidad, directamente desde la comodidad de tu hogar. Nuestra página web está diseñada para brindarte información detallada sobre nuestros servicios, políticas y procedimientos, para que puedas disfrutar de tu café favorito con total tranquilidad. </p>
 
     <div class="info-termyusos">
       <div class="tipo-2">   
-        <h3>Servicos Ofrecidos</h3>
+        <h3>Servicios Ofrecidos</h3>
         <p class="uno">  
           <strong>Selección Curada</strong>: Descubre una amplia variedad de café de especialidad proveniente de Colombia, Guatemala, Nicaragua, Etiopía, Kenia y más.
           <strong>Suscripción Mensual</strong>: Únete a nuestro club de suscripción para recibir tus granos de café favoritos automáticamente cada mes, con descuentos exclusivos y envío gratuito.
